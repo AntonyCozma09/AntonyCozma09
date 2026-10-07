@@ -6,16 +6,17 @@ Sono uno studente di Informatica e questo è l'inizio del mio portfolio creativo
 
 ## 🧑 Qualcosa su di me
 
-Studente di un istituto ad indirizzo informatico, appassionato di creatività digitale, tecnologia e storytelling.
+Studente di un istituto ad indirizzo informatico, appassionato di creatività digitale, tecnologia etc.
 
 ---
 
 ## ❤️ Le mie passioni
 
-- Creare storie e universi immaginari
+- Informatica: campi come la rete, linguaggio di programmazione
 - Animazione 3D e concept art
 - Comporre musica digitale
 - Esplorare le potenzialità dell'intelligenza artificiale
+- Giocare molto e capire come un videogioco è correlato ai suoi assets, comandi, e interazioni varie.
 
 ---
 
@@ -23,9 +24,9 @@ Studente di un istituto ad indirizzo informatico, appassionato di creatività di
 
 Ho già avuto occasione di utilizzare o conoscere:
 
-- HTML e le basi di Python
+- HTML e le basi di CSS e Python
 - Logica informatica generale, gestione di sistemi e software
-- Smontaggio e rimontaggio di PC desktop e laptop — con esperienza pratica diretta
+- Smontaggio e rimontaggio di PC desktop e laptop con esperienza pratica diretta
 - Software di animazione 3D (modellazione, rigging, rendering)
 - Strumenti di composizione musicale digitale
 - Intelligenze artificiali avanzate come Antigravity di Google DeepMind
@@ -44,7 +45,7 @@ So muovermi nel panorama dei modelli AI:
 
 ## 🎨 Cosa so fare
 
-- Disegno e concept art da quasi 7 anni
+- Sono un concept artist da quasi 7 anni
 - Animazione 3D completa: dalla modellazione al rendering
 - Composizione di musica digitale da 6 anni
 - Doppiaggio e produzione audio
@@ -53,11 +54,11 @@ So muovermi nel panorama dei modelli AI:
 
 ## 🚀 Il mio progetto principale — *Foundation Stories*
 
-> Un universo costruito da zero. Da solo. Da più di quattro anni.
+> Partendo dal concetto di "POST FATA RESURGO": Risorgere dopo la morte
 
-**Foundation Stories** è la mia serie animata completamente in 3D, gestita interamente da me in ogni suo aspetto:
+**Foundation Stories** è la mia serie animata fantasy/sci-fi completamente in 3D, gestita interamente da me in ogni suo aspetto:
 
-- Trama, personaggi e worldbuilding — tutto scritto da me
+- Trama, personaggi e worldbuilding 
 - Concept art di ogni personaggio e ambiente
 - Animazione 3D realizzata dall'inizio alla fine
 - Doppiaggio originale
@@ -69,4 +70,4 @@ Un giorno voglio farne un lavoro vero, affiancandolo all'informatica.
 
 ## 🎯 Guardando al futuro
 
-Voglio continuare a crescere in tutti questi campi, completare Foundation Stories e trasformare la mia creatività in qualcosa di grande.
+Voglio continuare a crescere in tutti questi campi, completare Foundation Stories e trasformare la mia creatività in qualcosa di ancora più grande.
