@@ -12,7 +12,7 @@ Studente di un istituto ad indirizzo informatico, appassionato di creatività di
 
 ## ❤️ Le mie passioni
 
-- Informatica: campi come la rete, linguaggio di programmazione
+- Informatica: linguaggi di programmazione
 - Animazione 3D e concept art
 - Comporre musica digitale
 - Esplorare le potenzialità dell'intelligenza artificiale
@@ -24,7 +24,7 @@ Studente di un istituto ad indirizzo informatico, appassionato di creatività di
 
 Ho già avuto occasione di utilizzare o conoscere:
 
-- HTML e le basi di CSS e Python
+- HTML e le basi di CSS 
 - Logica informatica generale, gestione di sistemi e software
 - Smontaggio e rimontaggio di PC desktop e laptop con esperienza pratica diretta
 - Software di animazione 3D (modellazione, rigging, rendering)
